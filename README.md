@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Soumya-xo/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Soumya-xo/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya-xo/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Soumya-xo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Soumya-xo/LeetCode/tree/master/0012-integer-to-roman) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya-xo/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Soumya-xo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya-xo/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Soumya-xo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
