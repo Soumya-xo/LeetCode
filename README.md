@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumya-xo/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Soumya-xo/LeetCode/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Soumya-xo/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Soumya-xo/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Soumya-xo/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Soumya-xo/LeetCode/tree/master/0242-valid-anagram) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Soumya-xo/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Soumya-xo/LeetCode/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Soumya-xo/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Soumya-xo/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Soumya-xo/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Soumya-xo/LeetCode/tree/master/0169-majority-element) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Soumya-xo/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soumya-xo/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Soumya-xo/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
