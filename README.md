@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Soumya-xo/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Soumya-xo/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Soumya-xo/LeetCode/tree/master/0242-valid-anagram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Soumya-xo/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Soumya-xo/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soumya-xo/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soumya-xo/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya-xo/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Soumya-xo/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Soumya-xo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soumya-xo/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Soumya-xo/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
