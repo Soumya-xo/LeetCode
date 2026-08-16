@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Soumya-xo/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Soumya-xo/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soumya-xo/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya-xo/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Soumya-xo/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Soumya-xo/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Soumya-xo/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Soumya-xo/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -139,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Soumya-xo/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -156,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -185,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Soumya-xo/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Soumya-xo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 ## Quickselect
 |  |
 | ------- |
@@ -205,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumya-xo/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
