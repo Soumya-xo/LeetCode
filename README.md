@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Soumya-xo/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Soumya-xo/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Soumya-xo/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Soumya-xo/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya-xo/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Soumya-xo/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Soumya-xo/LeetCode/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumya-xo/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/Soumya-xo/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya-xo/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Soumya-xo/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
