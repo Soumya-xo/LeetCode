@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Soumya-xo/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Soumya-xo/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Soumya-xo/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Soumya-xo/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Soumya-xo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Soumya-xo/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Soumya-xo/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Soumya-xo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Soumya-xo/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya-xo/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Soumya-xo/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Soumya-xo/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Soumya-xo/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
