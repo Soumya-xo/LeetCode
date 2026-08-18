@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Soumya-xo/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Soumya-xo/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Soumya-xo/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Soumya-xo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Soumya-xo/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Soumya-xo/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Soumya-xo/LeetCode/tree/master/0509-fibonacci-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumya-xo/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Soumya-xo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Soumya-xo/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya-xo/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Soumya-xo/LeetCode/tree/master/0509-fibonacci-number) |
@@ -224,5 +226,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Soumya-xo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Soumya-xo/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
