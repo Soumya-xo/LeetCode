@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Soumya-xo/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Soumya-xo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soumya-xo/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Soumya-xo/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Soumya-xo/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Soumya-xo/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Soumya-xo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Soumya-xo/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Soumya-xo/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Soumya-xo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Soumya-xo/LeetCode/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya-xo/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Soumya-xo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -187,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soumya-xo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Soumya-xo/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Soumya-xo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Soumya-xo/LeetCode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Soumya-xo/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Soumya-xo/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Soumya-xo/LeetCode/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/Soumya-xo/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Soumya-xo/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Soumya-xo/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Soumya-xo/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
