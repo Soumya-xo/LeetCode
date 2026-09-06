@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Soumya-xo/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Soumya-xo/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Soumya-xo/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Soumya-xo/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Soumya-xo/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya-xo/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Soumya-xo/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Soumya-xo/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Soumya-xo/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Soumya-xo/LeetCode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Soumya-xo/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Soumya-xo/LeetCode/tree/master/0242-valid-anagram) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Soumya-xo/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1927-sum-game](https://github.com/Soumya-xo/LeetCode/tree/master/1927-sum-game) |
