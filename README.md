@@ -397,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Soumya-xo/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Soumya-xo/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
