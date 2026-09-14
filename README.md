@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Soumya-xo/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Soumya-xo/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Soumya-xo/LeetCode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Soumya-xo/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Soumya-xo/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Soumya-xo/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
@@ -434,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Soumya-xo/LeetCode/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Soumya-xo/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
