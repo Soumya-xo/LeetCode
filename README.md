@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Soumya-xo/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Soumya-xo/LeetCode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Soumya-xo/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Soumya-xo/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Soumya-xo/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Soumya-xo/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Soumya-xo/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Soumya-xo/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Soumya-xo/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Soumya-xo/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Soumya-xo/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Soumya-xo/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Soumya-xo/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Soumya-xo/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Soumya-xo/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Soumya-xo/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Soumya-xo/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Soumya-xo/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Soumya-xo/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Soumya-xo/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Soumya-xo/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
