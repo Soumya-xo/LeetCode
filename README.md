@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Soumya-xo/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Soumya-xo/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Soumya-xo/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Soumya-xo/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Soumya-xo/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Soumya-xo/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Soumya-xo/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Soumya-xo/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya-xo/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Soumya-xo/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Soumya-xo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Soumya-xo/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Soumya-xo/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Soumya-xo/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Soumya-xo/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
 | ------- |
