@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Soumya-xo/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Soumya-xo/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Soumya-xo/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Soumya-xo/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Soumya-xo/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Soumya-xo/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Soumya-xo/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Soumya-xo/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Soumya-xo/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Soumya-xo/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Soumya-xo/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Soumya-xo/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Soumya-xo/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Soumya-xo/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Soumya-xo/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Soumya-xo/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Soumya-xo/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Soumya-xo/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Soumya-xo/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Soumya-xo/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Soumya-xo/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Soumya-xo/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Euclidean Algorithm
 |  |
 | ------- |
