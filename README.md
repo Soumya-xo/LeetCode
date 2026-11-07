@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Soumya-xo/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Soumya-xo/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Soumya-xo/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1882-process-tasks-using-servers](https://github.com/Soumya-xo/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Soumya-xo/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Soumya-xo/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Soumya-xo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1882-process-tasks-using-servers](https://github.com/Soumya-xo/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Soumya-xo/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
