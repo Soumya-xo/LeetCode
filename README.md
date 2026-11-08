@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Soumya-xo/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Soumya-xo/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Soumya-xo/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Soumya-xo/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/Soumya-xo/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/Soumya-xo/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Soumya-xo/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Soumya-xo/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Soumya-xo/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Soumya-xo/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Soumya-xo/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Soumya-xo/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Soumya-xo/LeetCode/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Soumya-xo/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Soumya-xo/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Soumya-xo/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Soumya-xo/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Soumya-xo/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Soumya-xo/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Soumya-xo/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Soumya-xo/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Soumya-xo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/Soumya-xo/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Soumya-xo/LeetCode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Soumya-xo/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quickselect
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Soumya-xo/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Soumya-xo/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Soumya-xo/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Soumya-xo/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -488,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Soumya-xo/LeetCode/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/Soumya-xo/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Soumya-xo/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Soumya-xo/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Soumya-xo/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Soumya-xo/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Soumya-xo/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
